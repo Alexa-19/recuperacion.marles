@@ -1,0 +1,311 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*inicio index*/
+
+.body{
+   
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    width: 25rem;
+    height: 2rem;
+    display: flex;
+    flex-direction: row;
+    margin: 1rem;
+}
+
+.header p{
+    margin-top: 0.3rem;
+}
+
+.header img{
+    border-radius: 5rem;
+    height: 1.5rem;
+    margin-left: 0.6rem;
+}
+
+.header div{
+    margin-top: 0.3rem;
+    margin-left: 12rem;
+}
+
+.section{
+    display: flex;
+    width: 15rem;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1rem; 
+}
+
+.boton{
+    margin-left: 8rem;
+    border-radius: 1rem;
+    height: 2rem;
+    width: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(85, 81, 81, 0.402);
+}
+
+.imagenes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1rem;
+}
+
+.art1{
+    border-radius: 1rem;
+    background-image: url(../images/1.jpg);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 6rem;
+    width: 6rem;
+}
+
+.art1 p{
+    color: rgba(158, 131, 158, 0.874);
+}
+
+.art1 h1{
+    font-size: 1rem;
+}
+
+.art2{
+    border-radius: 1rem;
+    background-image: url(../images/2.jpg);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 6rem;
+    width: 6rem;
+}
+
+.art2 p{
+    color: rgba(158, 131, 158, 0.874);
+}
+
+.art1 h1{
+    font-size: 1rem;
+}
+
+.art3{
+    border-radius: 1rem;
+    background-image: url(../images/3.jpg);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 6rem;
+    width: 6rem;
+}
+
+.art3 p{
+    color: rgba(158, 131, 158, 0.874);
+    ;
+}
+
+.art1 h1{
+    font-size: 1rem;
+}
+
+.text{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1rem; 
+}
+
+.boton2{
+    margin-left: 16rem;
+    border-radius: 1rem;
+    height: 2rem;
+    width: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(85, 81, 81, 0.402);
+}
+
+.imagenes2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1rem;
+}
+
+.art4{
+    border-radius: 1rem;
+    background-image: url(../images/4.jpg);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 6rem;
+    width: 12rem;
+}
+
+.art4 p{
+    color: rgba(198, 122, 198, 0.874);
+    ;
+}
+
+.art1 h1{
+    font-size: 1rem;
+}
+
+
+.art5{
+    border-radius: 1rem;
+    background-image: url(../images/5.jpg);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 6rem;
+    width: 12rem;
+}
+
+.art5 p{
+    color: rgba(198, 122, 198, 0.874);
+    ;
+}
+
+.art1 h1{
+    font-size: 1rem;
+}
+
+.text2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1rem; 
+}
+
+.listas{
+    display: flex;
+    height: 13rem;
+    flex-direction: column;
+}
+
+.lista1{
+    margin: 1rem;
+    display: flex;
+}
+
+.img img{
+    border-radius: 1rem;
+    height: 2.5rem;
+    width: 2.5rem;
+}
+
+.lista1 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1rem
+}
+
+.lista1 h5{
+    color: gray;
+    display: flex;
+    justify-content: center;
+    margin-right: 2rem;
+}
+
+.icono{
+    margin-left: 15rem;
+}
+
+.footer{
+    margin-top: 0.4rem;
+    background-color: rgba(218, 202, 202, 0.153);
+    height: 4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon1{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin-left: 5rem;
+}
+
+.icon2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2rem;
+}
+
+/*fin del index*/
+
+
+/*inicio de profile*/
+
+.header{
+    width: 25rem;
+    height: 2rem;
+    display: flex;
+    flex-direction: row;
+    margin: 1rem;
+}
+
+
+.header img{
+    border-radius: 5rem;
+    height: 1.5rem;
+    margin-left: 1rem;
+}
+
+.header div{
+    margin-top: 0.3rem;
+    margin-left: 20rem;
+}
+
+.section{
+    display: flex;
+    width: 15rem;
+}
+
+.perfil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.perfil img{
+   border-radius: 4rem;
+   height: 8rem;
+}
+
+.nombre{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.edit{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
